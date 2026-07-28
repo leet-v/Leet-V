@@ -4,36 +4,38 @@
 
 </div>
 
-<br/>
-
-### `$ whoami`
-
-**leet&lt;v&gt;** — frontend developer.
-Path: WordPress → PHP → JS → React → AI.
-
-<br/>
-
 ### `$ stack`
 
-`TypeScript`&nbsp;&nbsp;`React`&nbsp;&nbsp;`Next.js`&nbsp;&nbsp;`Node.js`&nbsp;&nbsp;`Tailwind`
-
-<br/>
+- Frontend:  `Javascript`, `TypeScript`, `React`, `Vue`, `Tailwind`
+- Backend: `PHP`, `Laravel`, `Wordpress`, `REST`
+- Tools: `vim`, `git`, `wp-cli`, `AI-assisted`
 
 ### `$ now`
 
-Open to frontend roles · building side projects with AI tooling
+- Focused on frontend architecture and React
+- Practicing algorithms and JS problem-solving
+- Building production-minded UI and small apps
+- Exploring AI-assisted development
 
-<br/>
+### `$ AI-tools`
 
-### `$ exit`
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-leet/)
+<img src="./assets/ai-tools.svg" width="100%" alt="ai-tools" />
+
+</div>
+
+
+### `$ contact`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leet-v/)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Leet_V)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:leetvibecode@gmail.com)
 
-<br/>
+
 
 ---
 
 <div align="center">
-<sub>pinned repos below ↓</sub>
+<p>pinned repos below ↓</p>
 </div>
