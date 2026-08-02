@@ -37,7 +37,8 @@
 ### `$ contact`
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Leet_V)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:leetvibecode@gmail.com)
+[![Gmail](https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:leetvibecode@gmail.com)
+[![Yandex](https://img.shields.io/badge/-000000?style=flat-square&logo=yandex&logoColor=white)](mailto:leet-vibe@yandex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leet-vibe/)
 
 ---
