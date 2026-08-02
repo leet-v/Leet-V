@@ -38,7 +38,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Leet_V)
 [![Gmail](https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:leetvibecode@gmail.com)
-[![Yandex](https://img.shields.io/badge/-000000?style=flat-square&logo=yandex&logoColor=white)](mailto:leet-vibe@yandex.com)
+[![Yandex](https://img.shields.io/badge/-000000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjIgMy4yaC0yLjU1Yy0zLjM1IDAtNS40NSAxLjg1LTUuNDUgNC45IDAgMi4xNSAxLjA1IDMuNyAyLjg1IDQuMzVMNi4zIDIwLjhoMi43bDMuNDUtNy41NWgyLjc1VjIwLjhoMi41NVYzLjJ6bS0yLjU1IDcuNTVoLS4yNWMtMS43IDAtMi43NS0uOTUtMi43NS0yLjY1czEuMDUtMi42NSAyLjc1LTIuNjVoLjI1djUuM3oiLz48L3N2Zz4=)](mailto:leet-vibe@yandex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leet-vibe/)
 
 ---
